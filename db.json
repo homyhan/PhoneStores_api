@@ -1,5 +1,6 @@
 {
-    products: [
+    products: {
+        [
     {
         "name": "iPhone 14 Pro Max",
         "price": 29490000,
@@ -73,4 +74,5 @@
         "id": "8"
     }
 ]
+    }
 }
